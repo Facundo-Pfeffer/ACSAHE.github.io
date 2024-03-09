@@ -148,7 +148,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Merriweather", Georgia, serif;
+		font-family: 'Times New Roman', sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 2.375;
@@ -2078,7 +2078,7 @@ input, select, textarea {
 		border-radius: 0;
 		cursor: pointer;
 		display: inline-block;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+        font-family: 'Times New Roman', sans-serif;
 		font-size: 0.8rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -2313,7 +2313,7 @@ input, select, textarea {
 
 	label {
 		display: block;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: 'Times New Roman', sans-serif;
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
@@ -3023,7 +3023,7 @@ input, select, textarea {
 		}
 
 		table th {
-			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-family: 'Times New Roman', sans-serif;
 			font-size: 0.8rem;
 			font-weight: 900;
 			letter-spacing: 0.075em;
@@ -3123,7 +3123,7 @@ input, select, textarea {
 			transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
 			border: solid 2px;
 			display: inline-block;
-			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-family: 'Times New Roman', sans-serif;
 			font-size: 0.8rem;
 			font-weight: 900;
 			height: 3rem;
