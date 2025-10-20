@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Scripts (temporary)
+*.py
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Backup HTML files
+*.html.backup
+
+# Node modules (if npm is added)
+node_modules/
+package-lock.json
+
+# SASS cache (if SASS is re-added)
+.sass-cache/
+*.css.map
+
+# Build artifacts
+dist/
+build/
+
+# Local testing
+.local/
+.cache/
+
+# Environment files
+.env
+.env.local
